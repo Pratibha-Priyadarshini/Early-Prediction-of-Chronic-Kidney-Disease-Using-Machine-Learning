@@ -3,3 +3,6 @@ gunicorn
 numpy
 scikit-learn
 pandas
+flask_restful
+pickle
+flask_cors
