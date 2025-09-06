@@ -6,3 +6,7 @@ pandas
 flask_restful
 pickle
 flask_cors
+seaborn
+plotly
+ydata_profiling
+nbformat
